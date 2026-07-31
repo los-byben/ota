@@ -1,13 +1,18 @@
-{
-  "response": [
-    {
-      "datetime": "1785500924",
-      "filename": "lineage-23.2-20260731-UNOFFICIAL-kunzite.zip",
-      "id": "ced5a8122990c41c6b5f0c9053264f4f40e5aefa3e1ca979b33a7695fcb3250d",
-      "romtype": "UNOFFICIAL",
-      "size": 1482731416,
-      "url": "https://sourceforge.net/projects/wakacaw-project/files/kunzite/lineage/20260731/lineage-23.2-20260731-UNOFFICIAL-kunzite.zip/download",
-      "version": "23.2"
-    }
-  ]
-}
+[
+  {
+    "datetime": 1785513073,
+    "files": [
+      {
+        "filename": "lineage-23.2-20260731-UNOFFICIAL-kunzite.zip",
+        "os_patch_level": "2026-07-01",
+        "os_sdk_level": 36,
+        "ota_property_files": "payload_metadata.bin:5038:138512,payload.bin:5038:1482712373,payload_properties.txt:1482717469:156,apex_info.pb:2326:1333,care_map.pb:3706:1285,metadata:69:694,metadata.pb:831:1447",
+        "sha256": "700f6aa6eac02915302f97e52b5f846bb9ea2d8766c828dda76c4289789da5e8",
+        "size": 1482720543,
+        "url": "https://sourceforge.net/projects/wakacaw-project/files/kunzite/lineage/20260731/lineage-23.2-20260731-UNOFFICIAL-kunzite.zip/download"
+      }
+    ],
+    "type": "UNOFFICIAL",
+    "version": "23.2"
+  }
+]
