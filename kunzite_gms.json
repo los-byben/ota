@@ -1,0 +1,18 @@
+[
+  {
+    "datetime": 1787487210,
+    "files": [
+      {
+        "filename": "lineage-24.0-20260823-UNOFFICIAL-gms-kunzite.zip",
+        "os_patch_level": "2026-08-01",
+        "os_sdk_level": 37,
+        "ota_property_files": "payload_metadata.bin:4957:147658,payload.bin:4957:2399771765,payload_properties.txt:2399776780:156,apex_info.pb:2318:1542,care_map.pb:3907:1003,metadata:69:694,metadata.pb:831:1439",
+        "sha256": "4611210d48c0775a664f18285c74f9698ea9359eb277c25caa0a696f039376b8",
+        "size": 2399779854,
+        "url": "https://sourceforge.net/projects/wakacaw-project/files/kunzite/lineage/20260823/lineage-24.0-20260823-UNOFFICIAL-gms-kunzite.zip/download"
+      }
+    ],
+    "type": "UNOFFICIAL",
+    "version": "24.0"
+  }
+]
