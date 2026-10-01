@@ -1,14 +1,14 @@
 [
   {
-    "datetime": 1790863684,
+    "datetime": 1790872900,
     "files": [
       {
         "filename": "lineage-24.0-20261001-UNOFFICIAL-kunzite.zip",
         "os_patch_level": "2026-09-01",
         "os_sdk_level": 37,
-        "ota_property_files": "payload_metadata.bin:5183:126511,payload.bin:5183:1443700884,payload_properties.txt:1443706125:156,apex_info.pb:2318:1508,care_map.pb:3873:1263,metadata:69:694,metadata.pb:831:1439",
-        "sha256": "a5c2facff6a54d2792fc3811b7bcbf84470d96b8fde5033f09e85ddcc471b0ed",
-        "size": 1443709199,
+        "ota_property_files": "payload_metadata.bin:5183:126002,payload.bin:5183:1438276194,payload_properties.txt:1438281435:156,apex_info.pb:2318:1508,care_map.pb:3873:1263,metadata:69:694,metadata.pb:831:1439",
+        "sha256": "128bd6b0826211d7319190ca13f01098c138750a5a657e5759a3993156dbafd8",
+        "size": 1438284509,
         "url": "https://github.com/los-byben/ota/releases/download/kunzite-20261001/lineage-24.0-20261001-UNOFFICIAL-kunzite.zip"
       }
     ],
