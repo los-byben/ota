@@ -1,15 +1,26 @@
 [
   {
-    "datetime": 1790995176,
+    "datetime": 1791533935,
     "files": [
       {
-        "filename": "lineage-24.0-20261003-UNOFFICIAL-kunzite.zip",
-        "os_patch_level": "2026-09-01",
+        "filename": "lineage-24.0-20261009-UNOFFICIAL-kunzite.zip",
+        "os_patch_level": "2026-10-01",
         "os_sdk_level": 37,
-        "ota_property_files": "payload_metadata.bin:5197:127385,payload.bin:5197:1468975290,payload_properties.txt:1468980545:156,apex_info.pb:2318:1508,care_map.pb:3873:1277,metadata:69:694,metadata.pb:831:1439",
-        "sha256": "c66a55679ff02eeb5d1c6ae2f0fa5beec3e41ae39973d7a4382451222266c00a",
-        "size": 1468983619,
-        "url": "https://github.com/los-byben/ota/releases/download/kunzite-20261003/lineage-24.0-20261003-UNOFFICIAL-kunzite.zip"
+        "ota_property_files": "payload_metadata.bin:5197:127268,payload.bin:5197:1464224206,payload_properties.txt:1464229461:156,apex_info.pb:2318:1508,care_map.pb:3873:1277,metadata:69:694,metadata.pb:831:1439",
+        "sha256": "1814bc89619c906d363881f7e071dba22ea34f18dfa99a9b3611681fc583813d",
+        "size": 1464232535,
+        "url": "https://github.com/los-byben/ota/releases/download/incremental-test/lineage-24.0-20261009-UNOFFICIAL-kunzite.zip"
+      }
+    ],
+    "incremental": [
+      {
+        "filename": "incremental-24.0-20261009-UNOFFICIAL-kunzite.zip",
+        "os_patch_level": "2026-10-01",
+        "os_sdk_level": 37,
+        "ota_property_files": "payload_metadata.bin:6478:221307,payload.bin:6478:52186824,payload_properties.txt:52193360:154,apex_info.pb:3372:1735,care_map.pb:5154:1277,metadata:69:810,metadata.pb:947:2377",
+        "sha256": "30803ccd2fcc1a3410fdfbef4563813acb8d0f3cfad217ed972d0cdd0a23bc59",
+        "size": 52196432,
+        "url": "https://github.com/los-byben/ota/releases/download/incremental-test/incremental-24.0-20261009-UNOFFICIAL-kunzite.zip"
       }
     ],
     "type": "UNOFFICIAL",
