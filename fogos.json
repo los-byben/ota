@@ -1,0 +1,18 @@
+[
+  {
+    "datetime": 1793854364,
+    "files": [
+      {
+        "filename": "lineage-24.0-20261105-UNOFFICIAL-fogos.zip",
+        "os_patch_level": "2026-11-01",
+        "os_sdk_level": 37,
+        "ota_property_files": "payload_metadata.bin:4335:147482,payload.bin:4335:1413883628,payload_properties.txt:1413888021:156,apex_info.pb:1975:1444,care_map.pb:3466:822,metadata:69:678,metadata.pb:815:1112",
+        "sha256": "e42f84fd7b6b65ff2a0acbf296f2ffa7f3dca17f2f89a3ce9269601d12c79802",
+        "size": 1413891095,
+        "url": "https://github.com/los-byben/ota/releases/download/fogos-20261105/lineage-24.0-20261105-UNOFFICIAL-fogos.zip"
+      }
+    ],
+    "type": "UNOFFICIAL",
+    "version": "24.0"
+  }
+]
